@@ -82,5 +82,4 @@ description: 塔里木大学 · 电气工程及其自动化 · 本科
             <li style="margin-bottom: 10px;">· 持续探索人工智能与创意设计交叉领域，立志在电气自动化与智能技术方向深耕，用知识改变人生轨迹</li>
         </ul>
     </section>
-
 </div>
