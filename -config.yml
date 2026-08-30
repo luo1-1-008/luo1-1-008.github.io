@@ -1,0 +1,14 @@
+title: 马春娟 | 个人主页
+description: 塔里木大学电气工程本科生 | AI训练师 | 专注人工智能数据处理与电气工程
+url: "https://luo1-1-008.github.io"
+baseurl: ""
+theme: jekyll-theme-reverie
+author:
+  name: 马春娟
+  bio: "塔里木大学 · 电气工程及其自动化 · 本科"
+  email: "3413634863@qq.com"
+  phone: "17881128493"
+social:
+  github: "luo1-1-008"
+  linkedin: "你的LinkedIn链接" # 待补充
+  email: "mailto:3413634863@qq.com"
